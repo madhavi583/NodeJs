@@ -1,1 +1,3 @@
-console.log('hello madhavi');
+setTimeout(function(){
+console.log('3 secs have passed');
+},3000);
