@@ -1,0 +1,25 @@
+{
+  "name": "madhavi",
+  "version": "1.0.0",
+  "description": "madhavi pathapati how are you doing",
+  "main": "App.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhavi583/NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhavi583/NodeJs/issues"
+  },
+  "homepage": "https://github.com/madhavi583/NodeJs#readme"
+}
